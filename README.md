@@ -1,3 +1,4 @@
+![Uber Clone Cover](assets/cov.png)
 # 🚖 Uber Clone (React Native + Expo)
 
 A mobile application inspired by Uber, built using **React Native** and **Expo**.  
